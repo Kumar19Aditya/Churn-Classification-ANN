@@ -97,4 +97,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Let me know if you’d like any further customization!
+Let me know if you’d like any further customization! - adityapupun535@gmail.com
