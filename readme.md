@@ -1,6 +1,4 @@
-Here's a draft for your GitHub README file:
 
----
 
 # Customer Churn Prediction using Artificial Neural Network (ANN)
 
