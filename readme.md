@@ -81,15 +81,17 @@ Make sure to have the following installed:
 - **Artificial Neural Network (ANN)**: A neural network model trained to predict churn probability based on customer features.
 - **Encoders and Scaler**: Categorical variables like geography and gender are encoded using pre-trained encoders, and features are scaled for model compatibility.
 
-Sample Screenshots
-Home Page
-<!-- Replace with actual image path -->
+### Sample Screenshots
 
-Customer Input Form
-<!-- Replace with actual image path -->
+#### 1. Home Page  
+[![Home Page](Images/home1.png)]
 
-Prediction Results
-<!-- Replace with actual image path -->
+#### 2. Customer Input Form  
+[![Customer Input Form](Images/Input.jpg)]
+
+#### 3. Prediction Results  
+[![Prediction Results](Images/output.jpg)]
+
 
 ## License
 
